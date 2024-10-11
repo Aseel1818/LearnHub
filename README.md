@@ -73,12 +73,12 @@ Administrators can efficiently manage course offerings through:
 - **Delete Courses:** Deleting a course.
 
 ### 3. Enrollment Management 🎓
-- **Enroll in Courses:** Users can apply for courses directly through the platform, which are then stored in the database for  review.
+- **Enroll in Courses:** Users can apply for courses directly through the platform, which is then stored in the database for  review.
 - **View Enrolled Courses:** Users can easily access a list of courses they are enrolled in.
 
 ### 4. User Profile Management 👤
 Users can manage their profiles with features including:
-- **Edit Username and Password:** Update personal information to keep accounts secure.
+- **Edit Username and Password:** Update personal information to secure accounts.
 - **Account Deletion:** Users have the option to delete their accounts if needed.
 
 ### 5. User Management 👥
@@ -115,9 +115,9 @@ The UML activity diagram illustrates the flow of specific tasks within the appli
 
 ## Design Patterns
 We implemented the **MVC (Model-View-Controller)** architecture using:
-- **React** for the frontend to build a dynamic user interface.
+- **React** for the front end to build a dynamic user interface.
 - **Node.js** for the backend to manage server-side operations.
-- **APIs** for seamless communication between the frontend and backend.
+- **APIs** for seamless communication between the front end and back end.
   
 Additionally, we utilized the **Factory design pattern** in the search component to manage search functionality dynamically.
 
@@ -152,13 +152,16 @@ The application includes the following features:
 - **Home Page:** Overview of available courses with easy navigation.
 - **Courses Page:** Search and filter options for course discovery.
 - **Course Details Page:** Detailed course information with enrollment choices.
-- **User Profile Page:** Users can view enrolled courses, edit their profile, and delete their account.
+- **User Profile Page:** Users can view enrolled courses, edit their profile, and delete their accounts.
 - **Admin Dashboard:** Comprehensive management of courses and users with CRUD operations and search functionalities.
 - **About Us Page:** Information about the team and project objectives.
 
 ## Documentation & Wireframes 📄
-Additional project documentation and wireframes can be found [here](link-to-documentation).
+Additional project documentation and wireframes can be found [here]([https://www.canva.com/design/DAFWNhcAR68/d877iOXNBLxaXS389DoZ6A/view?utm_content=DAFWNhcAR68&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://docs.google.com/document/d/1I8z7v1Z6PQehaefNLf7gnUVvlFtQWWOt5YPlXUVV1SM/edit?usp=sharing)).
+
+## Project presentattion 📄
+project presentation can be found [here](https://www.canva.com/design/DAFWNhcAR68/d877iOXNBLxaXS389DoZ6A/view?utm_content=DAFWNhcAR68&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ---
 
-Thank you for exploring our LearnHub project! We aim to provide a valuable resource for learners seeking live courses. For any inquiries or feedback, please reach out to the team.
+Thank you for exploring our LearnHub project! We aim to provide a valuable resource for learners seeking live courses. If you have any questions or feedback, please contact the team.
