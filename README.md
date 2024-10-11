@@ -157,7 +157,7 @@ The application includes the following features:
 - **About Us Page:** Information about the team and project objectives.
 
 ## Documentation & Wireframes 📄
-Additional project documentation and wireframes can be found [here]([https://www.canva.com/design/DAFWNhcAR68/d877iOXNBLxaXS389DoZ6A/view?utm_content=DAFWNhcAR68&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://docs.google.com/document/d/1I8z7v1Z6PQehaefNLf7gnUVvlFtQWWOt5YPlXUVV1SM/edit?usp=sharing)).
+Additional project documentation and wireframes can be found [here](https://docs.google.com/document/d/1I8z7v1Z6PQehaefNLf7gnUVvlFtQWWOt5YPlXUVV1SM/edit?usp=sharing).
 
 ## Project presentattion 📄
 project presentation can be found [here](https://www.canva.com/design/DAFWNhcAR68/d877iOXNBLxaXS389DoZ6A/view?utm_content=DAFWNhcAR68&utm_campaign=designshare&utm_medium=link&utm_source=editor).
